@@ -1,1 +1,2 @@
-# demo-kp-deploy hello
+# demo-kp-deploy
+"hello"
